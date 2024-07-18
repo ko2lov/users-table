@@ -41,6 +41,6 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/yourusername/users-table.git
+   git clone https://github.com/ko2lov/users-table
    cd users-table
    ```
